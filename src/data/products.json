@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "nombre": "Martillo Carpintero",
+    "marca": "Truper",
+    "precio": 8500,
+    "stock": 25,
+    "category": "Ferretería"
+  },
+  {
+    "id": 2,
+    "nombre": "Taladro Eléctrico 600W",
+    "marca": "Black&Decker",
+    "precio": 45999,
+    "stock": 12,
+    "category": "Maquinarias"
+  },
+  {
+    "id": 3,
+    "nombre": "Cinta Métrica 5m",
+    "marca": "Stanley",
+    "precio": 3200,
+    "stock": 40,
+    "category": "Ferretería"
+  },
+  {
+    "id": 4,
+    "nombre": "clavo gancho",
+    "marca": "acindar",
+    "precio": 1000,
+    "stock": 37,
+    "category": "ferreteria"
+  }
+
+]
