@@ -1,7 +1,7 @@
 {
   "name": "entregafinal_tt_back",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "app.js",
   "type": "module",
   "scripts": {
     "start": "node src/app.js",
@@ -10,9 +10,9 @@
     "mongo": "nodemon src/app.js mongo"
   },
   "keywords": [],
-  "author": "",
+  "author": "Ignacio Lopez Barg",
   "license": "ISC",
-  "description": "",
+  "description": "Entrega final del curso BackEnd Talento-Tech",
   "dependencies": {
     "bcryptjs": "^3.0.3",
     "dotenv": "^16.4.5",
